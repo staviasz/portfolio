@@ -42,6 +42,9 @@ header .profile-avatar {
 li {
   list-style: none;
 }
+.profile-avatar {
+  width: 96px;
+}
 .profile-bio {
   text-align: center;
 }
